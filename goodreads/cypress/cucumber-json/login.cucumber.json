@@ -1,0 +1,172 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Login to The goodreads",
+    "line": 1,
+    "id": "login-to-the-goodreads",
+    "tags": [],
+    "uri": "login.feature",
+    "elements": [
+      {
+        "id": "login-to-the-goodreads;ts001",
+        "keyword": "Scenario",
+        "line": 2,
+        "name": "TS001",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 3,
+            "name": "Verify that customers can browse the goodreads \"https://www.goodreads.com/\"",
+            "result": {
+              "status": "passed",
+              "duration": 6976000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 4,
+            "name": "Verify that customers can browse the goodreads sign in text",
+            "result": {
+              "status": "passed",
+              "duration": 1918000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "login-to-the-goodreads;ts002",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "TS002",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "Verify that customers can browse the goodreads \"https://www.goodreads.com/user/sign_in\"",
+            "result": {
+              "status": "passed",
+              "duration": 2301000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Verify that customers can browse the goodreads sign in page",
+            "result": {
+              "status": "passed",
+              "duration": 3281000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "login-to-the-goodreads;ts003",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "TS003",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 11,
+            "name": "Verify that customers stay in login page \"https://www.goodreads.com/ap/signin?language=en_US&openid.assoc_handle=amzn_goodreads_web_na&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.goodreads.com%2Fap-handler%2Fsign-in&siteState=cbb32fb67c53604775fbbaeef3cda038\"",
+            "result": {
+              "status": "passed",
+              "duration": 3352000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "Verify that customers can browse the goodreads sign in page and verify the email input section \"sudiptapramanik209@gmail.com\"",
+            "result": {
+              "status": "passed",
+              "duration": 638000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "Verify that customers can browse the goodreads sign in page and verify the password input section \"12345s\"",
+            "result": {
+              "status": "passed",
+              "duration": 413000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "Verify that customers can browse the goodreads sign in page and verify the sign in button.",
+            "result": {
+              "status": "passed",
+              "duration": 255000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 15,
+            "name": "Verify that customers can browse the goodreads home page and  click the search bar section.",
+            "result": {
+              "status": "passed",
+              "duration": 6771000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "Verify that customers can browse the goodreads.and click to want to read option.",
+            "result": {
+              "status": "passed",
+              "duration": 681000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 17,
+            "name": "Verify that customers can browse the goodreads and click to My Book option.",
+            "result": {
+              "status": "passed",
+              "duration": 6822000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "Verify that customers can browse the goodreads.and see my book list option and remove the list.",
+            "result": {
+              "status": "passed",
+              "duration": 4013000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 19,
+            "name": "Verify that customers can browse the goodreads should be able to logout.",
+            "result": {
+              "status": "passed",
+              "duration": 6216000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
