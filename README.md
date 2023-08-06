@@ -12,6 +12,9 @@ Hi i am Sudipta Pramanik i am automated goodreads website.
 2. javascript
 3. cucumber
 
+# you need to see the video presentation:-
+https://drive.google.com/file/d/1tUvv4FqXfjofulphn1fPcl-iYwwWm93y/view?usp=sharing
+
 # you need to see the test scenarios and test cases click it:-
 https://docs.google.com/spreadsheets/d/1Dv3XS7EPWYDjtqlqpkRuMnD9Phpl_BDKSfk6FYEmXSQ/edit?usp=sharing
 
